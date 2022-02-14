@@ -106,5 +106,146 @@ periodic_elements = [
         "chem_sym": "Ar",
         "chem_name": "Argon",
         "atom_weight": 39.948
+    },
+    {
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
+    },
+{
+        "atomic_num": ,
+        "chem_sym": ,
+        "chem_name": ,
+        "atom_weight":
     }
 ]
