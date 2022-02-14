@@ -1,0 +1,19 @@
+{
+  "name": "periodic-table",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/RiskyRomero/periodic-table.git"
+  },
+  "author": "k.az",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/RiskyRomero/periodic-table/issues"
+  },
+  "homepage": "https://gitlab.com/RiskyRomero/periodic-table#readme"
+}
